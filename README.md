@@ -1,8 +1,8 @@
 # Supervisório de uma linha de ursos de pelúcia (Elipse E3)
 
-Sistema supervisório (SCADA) desenvolvido no **Elipse E3** para simular e monitorar uma linha de produção de ursos de pelúcia, com detecção de metais, descarte, pesagem e empacotamento. Foi o projeto da disciplina de Controle Supervisório, do curso de Engenharia Eletrônica da UTFPR, em 2022.
+Sistema supervisório (SCADA) desenvolvido no **Elipse E3** para simular e monitorar uma linha de produção de ursos de pelúcia, com detecção de metais, descarte, pesagem e empacotamento. Foi um projeto em dupla da disciplina de Controle Supervisório, do curso de Engenharia Eletrônica da UTFPR, em 2022.
 
-> **English:** SCADA project built with Elipse E3 (2022, Supervisory Control course at UTFPR). It simulates a teddy bear production line with metal detection, rejection, weighing and packing, and includes user login, alarms and trend charts.
+> **English:** SCADA project built with Elipse E3 as a pair project (2022, Supervisory Control course at UTFPR). It simulates a teddy bear production line with metal detection, rejection, weighing and packing, and includes user login, alarms and trend charts.
 
 ![Visão geral do processo no supervisório](docs/visao-geral.png)
 
@@ -56,4 +56,4 @@ A principal dificuldade foi sincronizar as variáveis do processo, e dois proble
 
 ---
 
-Desenvolvido por **Isadora Fernanda Zappe Schmidt** · [LinkedIn](https://www.linkedin.com/in/isadora-fernanda)
+Trabalho desenvolvido em dupla. Repositório mantido por **Isadora Fernanda Zappe Schmidt** · [LinkedIn](https://www.linkedin.com/in/isadora-fernanda)
